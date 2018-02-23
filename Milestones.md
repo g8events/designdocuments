@@ -22,7 +22,7 @@ Milestones are an approach to where we can set expectations of what would make t
 | First Draft of an membership view for a group | Domain: event - description, how to contact us | Functionality | Database | Notification Server | Deployment | 
 | First Draft of requesting membership to the group | Domain: Creation of member roles | Authentication works | Database | Create start of the server application | Setup jenkins to auto deploy on changes (test server) | 
 | First Draft of group admins: role management | Controller: Can authenticate a user | Prevent non-authenticated users from creating events | Plan out how configuration is managed on the frontend and sent to the notifcation server  | | Auto bounce test site | 
-| First Draft of oauth registration (filling in information gaps) |  |  |  |  |  | 
+| First Draft of oauth registration (filling in information gaps) | View User can log in |  |  |  |  | 
 
 
 ### Milestone Template
